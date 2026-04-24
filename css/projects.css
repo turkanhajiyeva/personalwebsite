@@ -54,12 +54,12 @@ ul.navigation {
     width: 100vw; 
     margin: 0;
     list-style-type: none;
-    background-color: rgb(74, 161, 88);
+    background-color: rgb(22, 171, 197);
     padding: 0;
 }
 
 ul.navigation li {
-    background-color: rgb(74, 161, 88);
+    background-color: rgb(19, 154, 191);
     float: left;
 }
 
@@ -72,8 +72,8 @@ ul.navigation li a {
 }
 
 ul.navigation a:hover:not(.active) {
-    background-color: rgb(122, 195, 104);
-    color: rgb(5, 118, 50);
+    background-color: rgb(34, 146, 177);
+    color: rgb(1, 95, 196);
 }
 
 ul.navigation a.active {
@@ -81,5 +81,5 @@ ul.navigation a.active {
 }
 
 .active {
-    background-color: rgb(6, 78, 31);
+    background-color: rgb(35, 96, 146);
 }
